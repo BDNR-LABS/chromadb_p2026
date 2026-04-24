@@ -1,0 +1,45 @@
+Neural networks learn patterns from large datasets.
+Embeddings convert text into numerical representations.
+Vector databases store and retrieve semantic information efficiently.
+Large language models rely on high-dimensional vector spaces.
+Transformers are designed to capture long-range dependencies in language.
+Similarity search helps find conceptually related ideas.
+Reinforcement learning helps agents make decisions over time.
+Semantic search works even when keywords are different.
+AI systems require large amounts of high-quality training data.
+Machine learning models improve as more examples are provided.
+Boiling pasta requires bringing water to a high temperature.
+Chopping vegetables is one of the first steps in many recipes.
+Marinating meat helps enhance flavor and tenderness.
+Baking bread requires patience, precision, and proper kneading.
+A good soup starts with sautéing onions or garlic.
+Cooking rice involves controlling heat and water levels.
+Whisking eggs introduces air to make them fluffy.
+Simmering sauces slowly can develop deeper flavors.
+Roasting vegetables can bring out natural sweetness.
+Grilling food gives it a smoky and distinct taste.
+Airplanes allow people to travel long distances in a short time.
+Trains are a reliable method for commuting between cities.
+Buses often offer affordable transportation for short trips.
+Road trips provide flexibility and scenic experiences.
+Ferries enable travel across lakes, rivers, and oceans.
+High-speed rail systems efficiently connect major regions.
+Walking is ideal for short distances in urban areas.
+Rental cars make it easy to explore new destinations.
+Cycling is a sustainable and healthy travel option.
+Airport security checks ensure passenger safety.
+Soccer players rely on teamwork to maintain control of the game.
+Basketball requires coordination, speed, and quick decision-making.
+Tennis matches demand endurance and strategic thinking.
+Swimmers train daily to improve technique and stamina.
+Running long distances requires discipline and pacing.
+Cycling races test strength and sustained performance.
+Volleyball teams communicate constantly to win points.
+Weightlifting builds strength through progressive overload.
+Gymnastics routines require balance, flexibility, and focus.
+Martial arts emphasize discipline, movement, and control.
+Regular stretching helps improve flexibility and mobility.
+Eating a balanced diet supports overall health and energy.
+Sleeping well allows the body to recover and function properly.
+Hydration is crucial for maintaining physical performance.
+Light exercise can reduce stress and improve mood.
